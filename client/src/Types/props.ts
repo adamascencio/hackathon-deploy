@@ -1,4 +1,4 @@
-import { User } from "../types/models";
+import { User } from "../Types/models";
 
 
 /* ---------======= custom props ======--------- */

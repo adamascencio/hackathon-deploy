@@ -8,7 +8,7 @@ import {
   LoginFormData,
   SignupFormData,
 } from '../Types/forms'
-import { User } from '../types/models'
+import { User } from '../Types/models'
 
 const BASE_URL = `${import.meta.env.VITE_BACK_END_SERVER_URL}/api/auth`
 

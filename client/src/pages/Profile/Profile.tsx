@@ -2,7 +2,7 @@
 import { useEffect, useState } from "react"
 
 //types
-import { Profile } from "../../types/models";
+import { Profile } from "../../Types/models";
 
 // services
 import * as profileService from '../../Services/profileService'

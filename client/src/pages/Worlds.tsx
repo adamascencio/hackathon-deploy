@@ -7,7 +7,7 @@ import { useState } from "react";
 
 import * as progressService from "../Services/progressService";
 
-import { User, Profile, Progress } from "./../types/models";
+import { User, Profile, Progress } from "./../Types/models";
 
 const Worlds = (props: any): JSX.Element => {
     const { user, profile } = props;
