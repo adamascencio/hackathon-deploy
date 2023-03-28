@@ -1,5 +1,6 @@
 .logo-gradient {
     background: linear-gradient(to right, #0085FF 0%, #9747FF 100%);
+    background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
