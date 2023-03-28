@@ -24,7 +24,7 @@ import * as profileService from "../src/Services/profileService";
 // import * as progressService from '../src/Services/progressService'
 
 // stylesheets
-import "./css/App.css";
+import "./css/app.css";
 
 //utils
 import calculate from "./utils/math";
