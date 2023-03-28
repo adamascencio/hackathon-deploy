@@ -1,5 +1,5 @@
 import React from 'react'
-import '../css/app.css'
+import '../css/App.css'
 
 const Modal = (props:any) => {
     const {open, setOpen} = props
